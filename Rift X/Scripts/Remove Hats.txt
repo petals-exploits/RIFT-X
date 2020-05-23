@@ -1,0 +1,8 @@
+game.Workspace.ChildAdded:connect(function(ch)
+	if ch.ClassName == "Hat" then
+		wait(0.5)
+		if ch.Parent == game.Workspace then
+			ch:remove()
+		end
+	end
+end)

